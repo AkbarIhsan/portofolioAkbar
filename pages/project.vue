@@ -52,7 +52,37 @@
                         <h3 class="text-xs text-hunt5/30">Design by : Amalia Salsa L</h3>
                     </div>
                 </template>
-            </Card>        
+            </Card>  
+            <Card>
+                <template #image>
+                    <img class="rounded-xl w-full h-full" src="@\assets\padijaya.jpg" alt="">
+                </template>
+                <template #kalimat>
+                    <div class="p-5 w-full h-full flex flex-col justify-between">
+                        <div class="flex flex-col gap-3">
+                            <h1 class="text-3xl font-semibold">UD Padi Jaya</h1>
+                            <h2>Jakarta - Indonesia</h2>
+                            <h3 class="text-xs text-hunt5/30">Nuxt.Js</h3>  
+                        </div>
+                        <h3 class="text-xs text-hunt5/30">Design by : M Akbar Nur Ihsan</h3>
+                    </div>
+                </template>
+            </Card>
+            <Card>
+                <template #image>
+                    <img class="rounded-xl w-full h-full" src="@\assets\wahyujaya.jpg" alt="">
+                </template>
+                <template #kalimat>
+                    <div class="p-5 w-full h-full flex flex-col justify-between">
+                        <div class="flex flex-col gap-3">
+                            <h1 class="text-3xl font-semibold">UD Wahyu Jaya</h1>
+                            <h2>Kediri - Indonesia</h2>
+                            <h3 class="text-xs text-hunt5/30">Nuxt.Js</h3>  
+                        </div>
+                        <h3 class="text-xs text-hunt5/30">Design by : M Akbar Nur Ihsan</h3>
+                    </div>
+                </template>
+            </Card>              
         </div>
         <div class="flex flex-col w-auto items-center gap-5">
             <h4 class="text-sm text-hunt4 tracking-widest">CONTACT ME IF YOU ARE INTERESTED</h4>

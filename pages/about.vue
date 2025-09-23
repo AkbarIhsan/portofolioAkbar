@@ -38,7 +38,7 @@
                     <span class="hover:pb-5">r</span>
                 </div>
                 <div class="">
-                    <h2 class="text-sm px-10 text-hunt5/70">Welcome to my dynamic and evolving world of web development! I am a student of Information Technology at Politeknik Negeri Malang, with a primary focus on frontend web development. Through my projects, I have honed my skills not only in technical execution but also in creative problem-solving, allowing me to contribute both as an individual and as part of a collaborative team. <br><br>Explore my work and experience the intersection of technology and creativity through my projects!</h2>
+                    <h2 class="text-sm px-10 text-hunt5/70">Welcome to my dynamic and evolving world of web development! I am a graduate of Information Technology at Politeknik Negeri Malang, with a primary focus on frontend web development while also working as a fullstack developer. Through my projects, I have honed my skills not only in technical execution but also in creative problem-solving, allowing me to contribute both as an individual and as part of a collaborative team.<br><br>Explore my work and experience the intersection of technology and creativity through my projects!</h2>
                 </div>
             </div>
             <div class="w-[2000px] h-full relative hidden lg:flex">
@@ -48,7 +48,7 @@
     </div>
     <div class="w-full h-screen bg-black shadow-2xl shadow-hunt4/50 z-10 flex lg:flex-row flex-col relative lg:justify-center items-center">
         <div class="w-full h-full flex justify-center items-center lg:pl-20">
-            <img :class="['md:w-72 md:h-44 w-60 h-32 rounded-xl absolute transition-all duration-300', {'md:-translate-x-44 md:translate-y-0 -translate-y-12 md:-rotate-0 rotate-[30deg] shadow-full shadow-hunt4/30':isScrolled}]" src="@\assets\malangcamp.png" alt="">
+            <img :class="['md:w-72 md:h-44 w-60 h-32 rounded-xl absolute transition-all duration-300', {'md:-translate-x-44 md:translate-y-0 -translate-y-12 md:-rotate-0 rotate-[30deg] shadow-full shadow-hunt4/30':isScrolled}]" src="@\assets\padijaya.jpg" alt="">
             <img :class="['md:w-72 md:h-44 w-60 h-32 rounded-xl absolute transition-all duration-300', {'md:-translate-y-52 md:translate-x-44 -translate-y-10 md:-rotate-0 rotate-12 shadow-full shadow-hunt4/30':isScrolled}]" src="@\assets\falldetection.png" alt="">
             <img :class="['md:w-72 md:h-44 w-60 h-32 rounded-xl absolute transition-all duration-300', {'md:translate-x-44 md:translate-y-0 -translate-y-5 shadow-full shadow-hunt4/30':isScrolled}]" src="@\assets\wma.png" alt="">
             <div :class="['md:w-72 md:h-44 w-60 h-32 rounded-xl absolute transition-all duration-300 bg-hunt7 flex justify-center items-center', {'md:-translate-x-44 md:-translate-y-52 translate-y-1 md:-rotate-0 -rotate-6 shadow-full shadow-hunt4/30':isScrolled, 'shadow-full shadow-white/30':!isScrolled}]">

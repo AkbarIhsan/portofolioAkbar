@@ -10,7 +10,7 @@
             <!-- kata kata -->
             <div class="w-full h-auto flex flex-col text-center lg:text-start gap-5 justify-center px-5 z-20 lg:px-0 ">
                     <h1 class="text-hunt4 tracking-widest">JUNIOR FRONTEND WEB DEVELOPER</h1>
-                    <h2 class="text-hunt5 font-handjet font-bold text-4xl lg:text-6xl">Your New Junior Frontend Web Developer is Ready to Turn Your Web Ideas into Reality</h2>
+                    <h2 class="text-hunt5 font-handjet font-bold text-4xl lg:text-6xl">Your New Junior Frontend and Fullstack Web Developer is Ready to Turn Your Web Ideas into Reality</h2>
                     <h3 class="text-hunt5">Focused on Aesthetically pleasing and functional designs</h3>
                     <div class="flex justify-center lg:justify-start">
                         <Button class="text-lg flex flex-row items-center relative" to="https://wa.me/081459177100">
